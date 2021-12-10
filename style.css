@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+   background: linear-gradient(yellow,blue);
+    color:   coral
+}
+img{
+    height: 300px;
+    width: 500px
+}
